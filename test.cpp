@@ -11,8 +11,8 @@ int main() {
     cout << "I'm a fish." << endl;
     cout << "I'm a monkey." << endl;
     cout << "I'm studying at HUST." << endl;
-    cout << "I'm studying at Hanoi University of Science and Technology." << endl;
-    cout << "I'm studying at Hanoi University of Science and Technology (HUST)." << endl;
-    cout << "I'm studying at Hanoi University of Science and Technology (HUST) in Vietnam." << endl;
+    cout << "I'm a pig." << endl;
+    cout << "I'm a cow." << endl;
+    cout << "I'm a horse." << endl;
     return 0;
 }
