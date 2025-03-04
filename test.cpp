@@ -13,5 +13,6 @@ int main() {
     cout << "I'm a pig." << endl;
     cout << "I'm a cow." << endl;
     cout << "I'm a horse." << endl;
+    cout << "I'm studying at HUST." << endl;
     return 0;
 }
