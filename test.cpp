@@ -10,5 +10,6 @@ int main() {
     cout << "I'm a bird." << endl;
     cout << "I'm a fish." << endl;
     cout << "I'm a monkey." << endl;
+    cout << "I'm studying at HUST." << endl;
     return 0;
 }
