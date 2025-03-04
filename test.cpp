@@ -7,5 +7,8 @@ int main() {
     cout << "I'm a student." << endl;
     cout << "I'm a dog." << endl;
     cout << "I'm a cat." << endl;
+    cout << "I'm a bird." << endl;
+    cout << "I'm a fish." << endl;
+    cout << "I'm a monkey." << endl;
     return 0;
 }
