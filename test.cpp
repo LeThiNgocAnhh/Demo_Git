@@ -6,5 +6,6 @@ int main (){
     cout << "Quy trình và công cụ phát triển phần mềm" << endl;
     cout << "Create branch ngocanh" << endl;
     cout << "create conflict ngocanh vs main" <<endl;
+    cout << "I'm a student" << endl;
     return 0;
 }
