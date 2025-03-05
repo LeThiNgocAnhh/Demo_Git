@@ -9,5 +9,6 @@ int main (){
     cout << "Create conflicts anh vs ngocanh" <<endl;
     cout << "create conflict ngocanh vs main" <<endl;
     cout << "I'm a student" << endl;
+    cout << "I'm studying Git" << endl;
     return 0;
 }
