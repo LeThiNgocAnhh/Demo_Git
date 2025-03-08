@@ -5,5 +5,6 @@ int main(){
     cout << "Push code in github"<< endl; 
     cout << "Create conflicts in local" << endl;
     cout << "Create conflicts" <<endl;
+    cout << "Create branch ngocanh" << endl;
     return 0;
 }
