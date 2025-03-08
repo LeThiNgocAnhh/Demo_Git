@@ -7,5 +7,6 @@ int main(){
     cout << "Create conflicts" <<endl;
     cout << "Create branch ngocanh" << endl;
     cout << "Pull code" << endl;
+    cout << "Create branch anh" << endl;
     return 0;
 }
